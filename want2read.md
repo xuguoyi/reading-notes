@@ -3,5 +3,7 @@
 - css世界(ing)
 - [阮一峰的ES6](http://es6.ruanyifeng.com/)
 - [progit](https://git-scm.com/book/zh/v2)
-- 你不知道的javascript
+- 你不知道的javascript(上)
+- 你不知道的javascript(中)
+- 你不知道的javascript(下)
 - 轻量级函数式js编程
